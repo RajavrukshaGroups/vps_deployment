@@ -7,7 +7,7 @@ app.use(express.json());
 
 // Basic route
 app.get('/', (req, res) => {
-    res.send('Hello, World!');
+    res.send('Hello, World! plumeria server files');
 });
 
 // Sample API route
